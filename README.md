@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m helping to maintain the best i18n framework for JavaScript and it's awesome community ➡️ [i18next](https://www.i18next.com) 😉
+- 🔭 I’m helping to maintain the best i18n framework for JavaScript and its awesome community ➡️ [i18next](https://www.i18next.com) 😉
 - 🌱 Currently creating tutorials and blog posts for various JavaScript integrations for [locize](https://www.locize.com) ➡️ https://dev.to/adrai
 - 💬 Ask me about [i18next](https://www.i18next.com), [locize](https://www.locize.com) or [localistars](https://www.localistars.com)
 - 📫 How to reach me: [@adrirai](https://twitter.com/adrirai) on Twitter
