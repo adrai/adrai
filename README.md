@@ -14,4 +14,6 @@
   - [enum](https://github.com/adrai/enum) ➡️ A javascript module that introduces the Enum Type. It works for Node.js, in the browser and for Deno.
   - and a lot of other things...
 
+[![adrai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrai&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/adrai)
+
 ⚡ Fun fact: I quit my full-time job to try to be self-employed. It seems to be working so far... 😊
